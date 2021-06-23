@@ -1,4 +1,4 @@
-package com.santosglaiton.petclinic.model;
+package santosglaiton.petclinic.model;
 
 public class Person {
 
